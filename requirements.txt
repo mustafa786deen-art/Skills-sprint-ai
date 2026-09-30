@@ -12,3 +12,4 @@ langchain_google_genai
 flask
 flask_cors
 pytest
+gunicorn
